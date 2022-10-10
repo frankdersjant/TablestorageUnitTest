@@ -1,0 +1,374 @@
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\testhost.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\host.json
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\local.settings.json
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\testhost.exe
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\TestProjectTableStorage.deps.json
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\TestProjectTableStorage.runtimeconfig.json
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\TestProjectTableStorage.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\TestProjectTableStorage.pdb
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Azure.Core.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Azure.Data.Tables.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Azure.Identity.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Azure.Storage.Common.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Azure.Storage.Files.Shares.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Azure.Storage.Queues.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Castle.Core.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Table.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.DocumentDB.Core.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.KeyVault.Core.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.Storage.Blob.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.Storage.Common.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.Storage.Queue.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Host.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.WebJobs.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Extensions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Extensions.Http.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Extensions.Storage.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Host.Storage.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Azure.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.OData.Core.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Spatial.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Moq.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\NCrontab.Signed.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\FunctionApp6.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\FunctionApp6.pdb
+D:\Scratch\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.csproj.AssemblyReference.cache
+D:\Scratch\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Scratch\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.AssemblyInfoInputs.cache
+D:\Scratch\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.AssemblyInfo.cs
+D:\Scratch\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.csproj.CoreCompileInputs.cache
+D:\Scratch\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.csproj.CopyComplete
+D:\Scratch\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\refint\TestProjectTableStorage.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.pdb
+D:\Scratch\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.genruntimeconfig.cache
+D:\Scratch\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\ref\TestProjectTableStorage.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Scratch\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\host.json
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\local.settings.json
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\testhost.exe
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\testhost.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\TestProjectTableStorage.deps.json
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\TestProjectTableStorage.runtimeconfig.json
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\TestProjectTableStorage.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\TestProjectTableStorage.pdb
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Azure.Core.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Azure.Data.Tables.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Azure.Identity.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Azure.Storage.Common.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Azure.Storage.Files.Shares.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Azure.Storage.Queues.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Castle.Core.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Table.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.DocumentDB.Core.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.KeyVault.Core.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.Storage.Blob.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.Storage.Common.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.Storage.Queue.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Host.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.WebJobs.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Extensions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Extensions.Http.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Extensions.Storage.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Host.Storage.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Azure.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.OData.Core.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.Spatial.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Moq.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\NCrontab.Signed.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\FunctionApp6.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\bin\Debug\net6.0\FunctionApp6.pdb
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.csproj.AssemblyReference.cache
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.AssemblyInfoInputs.cache
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.AssemblyInfo.cs
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.csproj.CoreCompileInputs.cache
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.csproj.CopyComplete
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\refint\TestProjectTableStorage.dll
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.pdb
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\TestProjectTableStorage.genruntimeconfig.cache
+D:\Cloud 2223\Code\Testing\TableStorage\FunctionApp6\TestProjectTableStorage\obj\Debug\net6.0\ref\TestProjectTableStorage.dll
